@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm [Ton prénom]
 
-<!--
-**benedictenguena-ctrl/benedictenguena-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building my skills in:
 
-Here are some ideas to get you started:
+- Data Analysis
+- IT Support
+- Software Development
+- APIs and Dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I'm learning
+- Python
+- SQL
+- Git & GitHub
+- Excel
+- Power BI
+- APIs
+
+## Current goals
+- Build practical portfolio projects
+- Improve problem-solving skills
+- Apply for IT Support, Software Development and Data Analyst roles
+
+## Featured projects
+- Data Analysis Python
+- KPI Dashboard
+- API Data Pipeline
+- IT Support Automation Toolkit
